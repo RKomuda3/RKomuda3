@@ -1,4 +1,4 @@
-# **CMS Detector Physics Enthusiast's Playground**
+
 
 ## **Welcome!**
 
